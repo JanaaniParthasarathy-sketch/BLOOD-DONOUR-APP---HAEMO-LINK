@@ -1,0 +1,34 @@
+[[pages]]
+path = "app.py"
+title = "🩸 BloodLife Home"
+icon = "🩸"
+
+[[pages]]
+path = "pages/1_Donor.py"
+title = "👤 Donor Portal"
+icon = "👤"
+
+[[pages]]
+path = "pages/2_Patient.py"
+title = "🧑‍🦽 Find Blood"
+icon = "🧑‍🦽"
+
+[[pages]]
+path = "pages/3_Hospital.py"
+title = "🏥 Hospital Command"
+icon = "🏥"
+
+[[pages]]
+path = "pages/4_BloodBank.py"
+title = "🩸 Blood Bank Ops"
+icon = "🩸"
+
+[[pages]]
+path = "pages/5_Admin.py"
+title = "🛡️ Admin Centre"
+icon = "🛡️"
+
+[[pages]]
+path = "pages/6_AI_Assistant.py"
+title = "🤖 BloodLife AI"
+icon = "🤖"
